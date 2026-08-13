@@ -2,7 +2,7 @@
 
 1\. Introdução
 
-Este plano de teste descreve a abordagem para testar o Sistema deAluguel de Salas, que tem como objetivo permitir que os usuários aluguem, acompanhem e gerenciem suas reservas de sala. O objetivo deste plano é garantir a qualidade e confiabilidade do software antes do lançamento.
+Este plano de teste descreve a abordagem para testar o Sistema de Aluguel de Salas, que tem como objetivo permitir que os usuários aluguem, acompanhem e gerenciem suas reservas de sala. O objetivo deste plano é garantir a qualidade e confiabilidade do software antes do lançamento.
 
 2\. Objetivos
 
